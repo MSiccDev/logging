@@ -8,3 +8,4 @@ obj/
 .vs
 *.nuget.targets
 *.lock.json
+src/NReco.Logging.File/.DS_Store
