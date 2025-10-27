@@ -13,7 +13,7 @@ services.AddLogging(loggingBuilder =&gt; {
 
 More details and examples: https://github.com/nreco/logging
 </Description>
-    <Title>NET8/ NET6 / .NET Core file logger provider.</Title>
+    <Title>NET8 file logger provider.</Title>
 	<Copyright>Copyright (c) 2017-2024 Vitalii Fedorchenko and contributors</Copyright>
     <AssemblyTitle>NReco.Logging.File</AssemblyTitle>
     <VersionPrefix>1.2.2</VersionPrefix>
